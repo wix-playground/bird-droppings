@@ -2,7 +2,7 @@
 ### Interactive Google Map with KML layer
 
 #### Features
-* Map created with a KMZ file to create a KML layer.
+* Google Map created with a KMZ file to create a KML layer.
 * Search bar biased to the defined service region.
 * Selecting a search location adds a marker on the map. Previous search markers are deleted (this code can be deleted to allow multiple markers).
 
