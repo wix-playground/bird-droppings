@@ -3,7 +3,7 @@
 
 #### Features
 * Google Map created with a KMZ file to create a KML layer.
-* Search bar biased to the defined service region.
+* Search bar biased to the defined service region. Locations outside of the region won’t appear when selected.
 * Selecting a search location adds a marker on the map. Previous search location markers are deleted (this code can be deleted to allow multiple markers).
 
 #### To use the map
